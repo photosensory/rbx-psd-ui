@@ -1,1 +1,2 @@
-# rrbx-psd-ui
+# rbx-psd-ui
+A port of EgoMoose's Rbx-PSD-UI python tool to NodeJS
